@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Lo-Fi Media Wiki",
+    pageTitle: "Perfume Vault",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,8 +16,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "mroberts1.github.io/lofi-media-wiki",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "localhost:8080",
+    ignorePatterns: ["private", ".obsidian", "raw"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
