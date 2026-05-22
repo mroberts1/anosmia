@@ -7,3 +7,8 @@
 .obsidian/workspace-mobile.json
 .obsidian/cache
 .trash/
+
+# Quartz build output (local only)
+public/
+.quartz-cache/
+node_modules/
