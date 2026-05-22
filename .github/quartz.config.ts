@@ -8,7 +8,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "jameesy.github.io/foundry-vault",
+    baseUrl: "mroberts1.github.io/perfume",
     ignorePatterns: [],
     defaultDateType: "created",
     theme: {
