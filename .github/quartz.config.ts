@@ -8,7 +8,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "mroberts1.github.io/perfume",
+    baseUrl: "mroberts1.github.io/anosmia",
     ignorePatterns: [],
     defaultDateType: "created",
     theme: {
