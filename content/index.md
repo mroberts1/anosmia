@@ -3,7 +3,7 @@ type: home
 date_created: 2026-05-22
 ---
 
-# Fragrance & Media Wiki
+# anosmia
 
 A working knowledge base for a university course on digital culture, fragrance marketing, and the politics of representation.
 

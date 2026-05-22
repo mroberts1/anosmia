@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Fragrance & Media Wiki",
+    pageTitle: "anosmia",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
